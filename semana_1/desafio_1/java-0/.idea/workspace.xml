@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ac85e65b-842c-4322-b563-05600eec0dd0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1apbMgl7EDgi0d7MPnJk54Bb6PN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.grazie" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac85e65b-842c-4322-b563-05600eec0dd0" name="Default Changelist" comment="" />
+      <created>1587435439846</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587435439846</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="308" y="40" width="800" height="712" key="#Plugins" timestamp="1587450495550">
+      <screen x="67" y="27" width="1293" height="741" />
+    </state>
+    <state x="308" y="40" width="800" height="712" key="#Plugins/67.27.1293.741@67.27.1293.741" timestamp="1587450495550" />
+    <state x="554" y="288" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1587436793787">
+      <screen x="67" y="27" width="1293" height="741" />
+    </state>
+    <state x="554" y="288" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/67.27.1293.741@67.27.1293.741" timestamp="1587436793787" />
+    <state x="396" y="133" width="624" height="526" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1587439387615">
+      <screen x="67" y="27" width="1293" height="741" />
+    </state>
+    <state x="396" y="133" width="624" height="526" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/67.27.1293.741@67.27.1293.741" timestamp="1587439387615" />
+    <state x="369" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1587439086647">
+      <screen x="67" y="27" width="1293" height="741" />
+    </state>
+    <state x="369" y="224" key="com.intellij.ide.util.TipDialog/67.27.1293.741@67.27.1293.741" timestamp="1587439086647" />
+  </component>
+</project>

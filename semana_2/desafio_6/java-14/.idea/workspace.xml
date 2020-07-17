@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ca3be363-1c51-42c9-8229-cb2c85f57e2b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gradle/6.0/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.0/fileContent/fileContent.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.0/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.0/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.0/javaCompile/javaCompile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.0/javaCompile/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/br/com/codenation/StatisticUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/java-14-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/jar/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/codenation/StatisticUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/br/com/codenation/StatisticUtilTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-7/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-7/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-7/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-7/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-7/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-7/stdout.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java14/.gradle/6.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java14/.gradle/6.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java14/.gradle/6.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java14/.gradle/6.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java14/.gradle/6.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java14/.gradle/6.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java14/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java14/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java14/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java14/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java14/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java14/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java14/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java14/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java14/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java14/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java14/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java14/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java14/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java14/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java14/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java14/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-1/.idea/java-1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../java-1/.idea/java-1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java-1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-1/src/main/java/br/com/codenation/Time.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-1/src/main/java/br/com/codenation/Time.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-13/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java-13/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-7/.gradle/4.9/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../java-7/.gradle/4.9/fileContent/fileContent.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-7/.gradle/4.9/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../java-7/.gradle/4.9/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-7/.gradle/4.9/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../java-7/.gradle/4.9/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-7/.gradle/4.9/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../java-7/.gradle/4.9/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-7/.gradle/4.9/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../java-7/.gradle/4.9/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-7/.gradle/4.9/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../java-7/.gradle/4.9/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-7/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../java-7/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-7/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../java-7/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-7/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../java-7/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-7/build/classes/java/main/challenge/Carro$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java-7/build/classes/java/main/challenge/Carro$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-7/build/classes/java/main/challenge/Carro$CarroBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java-7/build/classes/java/main/challenge/Carro$CarroBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-7/build/classes/java/main/challenge/Carro.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java-7/build/classes/java/main/challenge/Carro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-7/build/classes/java/main/challenge/Cor.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java-7/build/classes/java/main/challenge/Cor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-7/build/classes/java/main/challenge/Estacionamento.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java-7/build/classes/java/main/challenge/Estacionamento.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-7/build/classes/java/main/challenge/EstacionamentoException.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java-7/build/classes/java/main/challenge/EstacionamentoException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-7/build/classes/java/main/challenge/Motorista$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java-7/build/classes/java/main/challenge/Motorista$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-7/build/classes/java/main/challenge/Motorista$MotoristaBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java-7/build/classes/java/main/challenge/Motorista$MotoristaBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-7/build/classes/java/main/challenge/Motorista.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java-7/build/classes/java/main/challenge/Motorista.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-7/build/classes/java/test/challenge/EstacionamentoTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java-7/build/classes/java/test/challenge/EstacionamentoTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-7/build/reports/tests/test/classes/challenge.EstacionamentoTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-7/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../java-7/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-7/build/reports/tests/test/packages/challenge.html" beforeDir="false" afterPath="$PROJECT_DIR$/../java-7/build/reports/tests/test/packages/challenge.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-7/build/test-results/test/TEST-challenge.EstacionamentoTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-7/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../java-7/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-7/src/main/java/challenge/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-7/src/main/java/challenge/Carro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-7/src/main/java/challenge/Estacionamento.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-7/src/main/java/challenge/Estacionamento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-7/src/main/java/challenge/Motorista.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-7/src/main/java/challenge/Motorista.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="java-14" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="java-14" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="java-14" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1b90OPxNdNTLCmnnj2JBxMa2Y8F" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/build.gradle" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.grazie" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RunManager" selected="Gradle.java-14 [build]">
+    <configuration name="java-14 [assemble]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="assemble" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="java-14 [buildDependents]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="buildDependents" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="java-14 [buildNeeded]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="buildNeeded" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="java-14 [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="java-14 [jar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="jar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.java-14 [build]" />
+        <item itemvalue="Gradle.java-14 [assemble]" />
+        <item itemvalue="Gradle.java-14 [buildDependents]" />
+        <item itemvalue="Gradle.java-14 [buildNeeded]" />
+        <item itemvalue="Gradle.java-14 [jar]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca3be363-1c51-42c9-8229-cb2c85f57e2b" name="Default Changelist" comment="" />
+      <created>1588028969311</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588028969311</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="348" y="66" width="723" height="661" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1588029342523">
+      <screen x="70" y="27" width="1290" height="741" />
+    </state>
+    <state x="348" y="66" width="723" height="661" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/70.27.1290.741@70.27.1290.741" timestamp="1588029342523" />
+    <state width="1244" height="175" key="GridCell.Tab.0.bottom" timestamp="1588031811653">
+      <screen x="70" y="27" width="1290" height="741" />
+    </state>
+    <state width="1244" height="175" key="GridCell.Tab.0.bottom/70.27.1290.741@70.27.1290.741" timestamp="1588031811653" />
+    <state width="1244" height="175" key="GridCell.Tab.0.center" timestamp="1588031811653">
+      <screen x="70" y="27" width="1290" height="741" />
+    </state>
+    <state width="1244" height="175" key="GridCell.Tab.0.center/70.27.1290.741@70.27.1290.741" timestamp="1588031811653" />
+    <state width="1244" height="175" key="GridCell.Tab.0.left" timestamp="1588031811652">
+      <screen x="70" y="27" width="1290" height="741" />
+    </state>
+    <state width="1244" height="175" key="GridCell.Tab.0.left/70.27.1290.741@70.27.1290.741" timestamp="1588031811652" />
+    <state width="1244" height="175" key="GridCell.Tab.0.right" timestamp="1588031811653">
+      <screen x="70" y="27" width="1290" height="741" />
+    </state>
+    <state width="1244" height="175" key="GridCell.Tab.0.right/70.27.1290.741@70.27.1290.741" timestamp="1588031811653" />
+    <state x="198" y="27" width="1024" height="741" key="SettingsEditor" timestamp="1588031799948">
+      <screen x="70" y="27" width="1290" height="741" />
+    </state>
+    <state x="198" y="27" width="1024" height="741" key="SettingsEditor/70.27.1290.741@70.27.1290.741" timestamp="1588031799948" />
+  </component>
+</project>
